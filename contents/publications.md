@@ -1,8 +1,7 @@
 
-- Choice principles and hypercompletion in HoTT
+- <strong>Owen Milner</strong> (2026). Choice principles and hypercompletion in HoTT. <strong>LIPIcs</strong>.
 
-- Classifying 2-groups in homotopy type theory, co-authored with Perry Hart
+- Perry Hart and <strong>Owen Milner</strong> (2026). Classifying 2-groups in homotopy type theory. <strong>LICS</strong>.
 
-- A computer formalisation of the Serre finiteness theorem, co-authored with Reid Barton, Axel Ljungstr"om, and Anders M"ortberg
-
+- Reid Barton, Axel Ljungstr"om, <strong>Owen Milner</strong> and Anders M"ortberg (2026). A computer formalisation of the Serre finiteness theorem. <strong>LICS</strong>.
 
