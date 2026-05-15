@@ -1,3 +1,3 @@
 
-I am a logician, my research area is synthetic homotopy theory, I am a user of the Cubical Agda proof assistant.
+I am a logician, my research area is synthetic homotopy theory, I am a user of the proof assistant Cubical Agda.
 
